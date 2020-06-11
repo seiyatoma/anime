@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+}
+
+input[type="number"] {
+  margin: 5px;
+}
+
+.info {
+  border: solid 2px #4682b4;
+  border-radius: 20px;
+  width: 600px;
+  margin: 10px auto 10px auto;
+}
+
+/* ボタン */
+.btn {
+  width: 150px;
+  margin: 0px 0px 10px 0px;
+  color: white;
+  text-align: center;
+  font-size: 21px;
+  font-weight: bold;
+  background-color: #87cefa;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 0px;
+  padding: 5px;
+}
+
+.stone {
+  font-size: 21px;
+  color: #4682b4;
+  text-align: left;
+  display: inline-block;
+  margin-top:0px;
+}
